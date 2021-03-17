@@ -1,0 +1,39 @@
+
+Zcom.infosys.FA4Group6.Product.controller.ProductController#getProducts()Ljava/lang/Object;o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.java6 6("1*›
+1o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.java7 7(š
+—
+o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.java7 7(
+%0org.slf4j.Logger"__id*
+""ýú
+o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.java7 7(.
+
+%1void"*org.slf4j.Logger#info(Ljava/lang/String;)V*
+
+%0org.slf4j.Logger*
+Retriveing all Products2info(Ljava/lang/String;)Š
+‡
+o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.java91 9(?:
+%24com.infosys.FA4Group6.Product.service.ProductService"__id*R*P<
+:com.infosys.FA4Group6.Product.controller.ProductController"
+productService³°
+o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.java91 9(M
+%3java.lang.Iterable"Vcom.infosys.FA4Group6.Product.service.ProductService#getProducts()Ljava/lang/Iterable;*<
+:
+%24com.infosys.FA4Group6.Product.service.ProductService2getProducts()²
+¯
+o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.java9 9(N
+productsjava.util.List"__id*
+
+%3java.lang.Iterable"
+o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.java; ;(
+
+productsjava.util.ListB><
+:com.infosys.FA4Group6.Product.controller.ProductController

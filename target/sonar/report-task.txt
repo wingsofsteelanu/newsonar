@@ -1,0 +1,7 @@
+organization=wingsofsteelanu
+projectKey=com.infosys.FA4Group6.Product:product
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.18256
+dashboardUrl=https://sonarcloud.io/dashboard?id=com.infosys.FA4Group6.Product%3Aproduct
+ceTaskId=AXg_-XFbPhXnAiVqXl_-
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXg_-XFbPhXnAiVqXl_-

@@ -1,0 +1,31 @@
+
+Šcom.infosys.FA4Group6.Product.service.ProductService#getProductsByIds(Lcom/infosys/FA4Group6/Product/model/ProductId;)Ljava/lang/Iterable;i
+_C:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/ProductService.javaO O(*"1*¢	
+1i
+_C:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/ProductService.javaP	 P(Ž
+‹
+i
+_C:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/ProductService.javaP	 P(G
+%0Acom.infosys.FA4Group6.Product.ProductRepository.ProductRepository"__id*O*M6
+4com.infosys.FA4Group6.Product.service.ProductService"
+productRepository›˜
+i
+_C:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/ProductService.javaP' P(=
+%1java.util.List"Icom.infosys.FA4Group6.Product.model.ProductId#getProdId()Ljava/util/List;*=
+;
+
+productIds-com.infosys.FA4Group6.Product.model.ProductId2getProdId()øõ
+i
+_C:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/ProductService.javaP	 P(>
+%2java.lang.Iterable"horg.springframework.data.repository.CrudRepository#findAllById(Ljava/lang/Iterable;)Ljava/lang/Iterable;*I
+G
+%0Acom.infosys.FA4Group6.Product.ProductRepository.ProductRepository*
+
+%1java.util.List2!findAllById(Ljava/lang/Iterable;)"‡
+i
+_C:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/ProductService.javaP P(?
+
+%2java.lang.Iterable:;
+
+productIds-com.infosys.FA4Group6.Product.model.ProductIdB86
+4com.infosys.FA4Group6.Product.service.ProductService

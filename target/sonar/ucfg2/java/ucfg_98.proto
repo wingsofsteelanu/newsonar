@@ -1,0 +1,79 @@
+
+¾com.infosys.FA4Group6.Product.service.SubscriptionService#updateSubscription(Lcom/infosys/FA4Group6/Product/entity/SubscribedProduct;)Lcom/infosys/FA4Group6/Product/entity/SubscribedProduct;n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java! !(,"3*Ë
+2n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java$ $(ÃÀ
+n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java$$ $(C
+%4java.lang.Integer"Wcom.infosys.FA4Group6.Product.entity.SubscribedProduct#getQuantity()Ljava/lang/Integer;*M
+K
+subscribedProduct6com.infosys.FA4Group6.Product.entity.SubscribedProduct2getQuantity()èå
+n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java$ $(D
+
+%5void"Xcom.infosys.FA4Group6.Product.entity.SubscribedProduct#setQuantity(Ljava/lang/Integer;)V*P
+N
+existingSubscription6com.infosys.FA4Group6.Product.entity.SubscribedProduct*
+
+%4java.lang.Integer2 setQuantity(Ljava/lang/Integer;)¢
+Ÿ
+n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java&
+ &( L
+%6Fcom.infosys.FA4Group6.Product.ProductRepository.SubscriptionRepository"__id*Y*W;
+9com.infosys.FA4Group6.Product.service.SubscriptionService"
+subscriptionRepositoryÌÉ
+n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java&
+ &(;<
+%76com.infosys.FA4Group6.Product.entity.SubscribedProduct"]org.springframework.data.repository.CrudRepository#save(Ljava/lang/Object;)Ljava/lang/Object;*N
+L
+%6Fcom.infosys.FA4Group6.Product.ProductRepository.SubscriptionRepository*P
+N
+existingSubscription6com.infosys.FA4Group6.Product.entity.SubscribedProduct2save(Ljava/lang/Object;)"°
+n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java& &(<>
+<
+%76com.infosys.FA4Group6.Product.entity.SubscribedProduct*Ÿ
+3n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java"+ "(A¢
+Ÿ
+n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java"+ "(AL
+%0Fcom.infosys.FA4Group6.Product.ProductRepository.SubscriptionRepository"__id*Y*W;
+9com.infosys.FA4Group6.Product.service.SubscriptionService"
+subscriptionRepository½º
+n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java"K "(g
+%1java.lang.Integer"Tcom.infosys.FA4Group6.Product.entity.SubscribedProduct#getSubId()Ljava/lang/Integer;*M
+K
+subscribedProduct6com.infosys.FA4Group6.Product.entity.SubscribedProduct2
+getSubId()ûø
+n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java"+ "(h
+%2java.util.Optional"corg.springframework.data.repository.CrudRepository#findById(Ljava/lang/Object;)Ljava/util/Optional;*N
+L
+%0Fcom.infosys.FA4Group6.Product.ProductRepository.SubscriptionRepository*
+
+%1java.lang.Integer2findById(Ljava/lang/Object;)²¯
+n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java"+ "(u<
+%36com.infosys.FA4Group6.Product.entity.SubscribedProduct"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
+
+%2java.util.Optional*
+""2orElse(Ljava/lang/Object;)‰
+†
+n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java" "(vN
+existingSubscription6com.infosys.FA4Group6.Product.entity.SubscribedProduct"__id*>
+<
+%36com.infosys.FA4Group6.Product.entity.SubscribedProduct*
+2
+1*í
+1n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java(	 (("x
+n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java( ((
+"":K
+subscribedProduct6com.infosys.FA4Group6.Product.entity.SubscribedProductB=;
+9com.infosys.FA4Group6.Product.service.SubscriptionService

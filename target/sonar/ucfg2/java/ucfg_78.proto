@@ -1,0 +1,154 @@
+
+icom.infosys.FA4Group6.Product.entity.Product#convertToDTO()Lcom/infosys/FA4Group6/Product/dto/ProductDTO;c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaÉ É("1*∑9
+1c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaÑ Ñ(- «
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaÑ! Ñ(+2
+%0,com.infosys.FA4Group6.Product.dto.ProductDTO",com.infosys.FA4Group6.Product.dto.ProductDTO‹
+Ÿ
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaÑ Ñ(-
+%1"6com.infosys.FA4Group6.Product.dto.ProductDTO#<init>()V*4
+2
+%0,com.infosys.FA4Group6.Product.dto.ProductDTO›
+⁄
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaÑ Ñ(.7
+product,com.infosys.FA4Group6.Product.dto.ProductDTO"__id*4
+2
+%0,com.infosys.FA4Group6.Product.dto.ProductDTOçä
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaÜ Ü(*
+%2java.lang.Integer"Kcom.infosys.FA4Group6.Product.entity.Product#getProdId()Ljava/lang/Integer;*0.
+,com.infosys.FA4Group6.Product.entity.Product2getProdId()∏µ
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaÜ Ü(+
+
+%3void"Lcom.infosys.FA4Group6.Product.dto.ProductDTO#setProdId(Ljava/lang/Integer;)V*9
+7
+product,com.infosys.FA4Group6.Product.dto.ProductDTO*
+
+%2java.lang.Integer2setProdId(Ljava/lang/Integer;)âÜ
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaá á((
+%4java.lang.String"Icom.infosys.FA4Group6.Product.entity.Product#getBrand()Ljava/lang/String;*0.
+,com.infosys.FA4Group6.Product.entity.Product2
+getBrand()≥∞
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaá á()
+
+%5void"Jcom.infosys.FA4Group6.Product.dto.ProductDTO#setBrand(Ljava/lang/String;)V*9
+7
+product,com.infosys.FA4Group6.Product.dto.ProductDTO*
+
+%4java.lang.String2setBrand(Ljava/lang/String;)èå
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaà à(.
+%6java.lang.String"Lcom.infosys.FA4Group6.Product.entity.Product#getCategory()Ljava/lang/String;*0.
+,com.infosys.FA4Group6.Product.entity.Product2getCategory()π∂
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaà à(/
+
+%7void"Mcom.infosys.FA4Group6.Product.dto.ProductDTO#setCategory(Ljava/lang/String;)V*9
+7
+product,com.infosys.FA4Group6.Product.dto.ProductDTO*
+
+%6java.lang.String2setCategory(Ljava/lang/String;)ïí
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaâ â(4
+%8java.lang.String"Ocom.infosys.FA4Group6.Product.entity.Product#getDescription()Ljava/lang/String;*0.
+,com.infosys.FA4Group6.Product.entity.Product2getDescription()øº
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaâ â(5
+
+%9void"Pcom.infosys.FA4Group6.Product.dto.ProductDTO#setDescription(Ljava/lang/String;)V*9
+7
+product,com.infosys.FA4Group6.Product.dto.ProductDTO*
+
+%8java.lang.String2"setDescription(Ljava/lang/String;)äá
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaä ä((
+%10java.lang.String"Icom.infosys.FA4Group6.Product.entity.Product#getImage()Ljava/lang/String;*0.
+,com.infosys.FA4Group6.Product.entity.Product2
+getImage()µ≤
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaä ä()
+%11void"Jcom.infosys.FA4Group6.Product.dto.ProductDTO#setImage(Ljava/lang/String;)V*9
+7
+product,com.infosys.FA4Group6.Product.dto.ProductDTO*
+
+%10java.lang.String2setImage(Ljava/lang/String;)ÔÏ
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaã ã((
+%12double"8com.infosys.FA4Group6.Product.entity.Product#getPrice()D*0.
+,com.infosys.FA4Group6.Product.entity.Product2
+getPrice()âÜ
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaã ã()
+%13void"9com.infosys.FA4Group6.Product.dto.ProductDTO#setPrice(D)V*9
+7
+product,com.infosys.FA4Group6.Product.dto.ProductDTO*
+
+%12double2setPrice(D)ñì
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaå å(4
+%14java.lang.String"Ocom.infosys.FA4Group6.Product.entity.Product#getProductname()Ljava/lang/String;*0.
+,com.infosys.FA4Group6.Product.entity.Product2getProductname()¡æ
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaå å(5
+%15void"Pcom.infosys.FA4Group6.Product.dto.ProductDTO#setProductname(Ljava/lang/String;)V*9
+7
+product,com.infosys.FA4Group6.Product.dto.ProductDTO*
+
+%14java.lang.String2"setProductname(Ljava/lang/String;)éã
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaç ç(*
+%16java.lang.Integer"Kcom.infosys.FA4Group6.Product.entity.Product#getRating()Ljava/lang/Integer;*0.
+,com.infosys.FA4Group6.Product.entity.Product2getRating()∫∑
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaç ç(+
+%17void"Lcom.infosys.FA4Group6.Product.dto.ProductDTO#setRating(Ljava/lang/Integer;)V*9
+7
+product,com.infosys.FA4Group6.Product.dto.ProductDTO*
+
+%16java.lang.Integer2setRating(Ljava/lang/Integer;)íè
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaé é(.
+%18java.lang.Integer"Mcom.infosys.FA4Group6.Product.entity.Product#getSellerid()Ljava/lang/Integer;*0.
+,com.infosys.FA4Group6.Product.entity.Product2getSellerid()æª
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaé é(/
+%19void"Ncom.infosys.FA4Group6.Product.dto.ProductDTO#setSellerId(Ljava/lang/Integer;)V*9
+7
+product,com.infosys.FA4Group6.Product.dto.ProductDTO*
+
+%18java.lang.Integer2 setSellerId(Ljava/lang/Integer;)åâ
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaè è((
+%20java.lang.Integer"Jcom.infosys.FA4Group6.Product.entity.Product#getStock()Ljava/lang/Integer;*0.
+,com.infosys.FA4Group6.Product.entity.Product2
+getStock()∏µ
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaè è()
+%21void"Kcom.infosys.FA4Group6.Product.dto.ProductDTO#setStock(Ljava/lang/Integer;)V*9
+7
+product,com.infosys.FA4Group6.Product.dto.ProductDTO*
+
+%20java.lang.Integer2setStock(Ljava/lang/Integer;)ñì
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaê ê(4
+%22java.lang.String"Ocom.infosys.FA4Group6.Product.entity.Product#getSubcategory()Ljava/lang/String;*0.
+,com.infosys.FA4Group6.Product.entity.Product2getSubcategory()¡æ
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaê ê(5
+%23void"Pcom.infosys.FA4Group6.Product.dto.ProductDTO#setSubCategory(Ljava/lang/String;)V*9
+7
+product,com.infosys.FA4Group6.Product.dto.ProductDTO*
+
+%22java.lang.String2"setSubCategory(Ljava/lang/String;)"†
+c
+WC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/Product.javaí í(9
+7
+product,com.infosys.FA4Group6.Product.dto.ProductDTOB0.
+,com.infosys.FA4Group6.Product.entity.Product

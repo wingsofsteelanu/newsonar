@@ -1,0 +1,61 @@
+
+xcom.infosys.FA4Group6.Product.entity.SubscribedProduct#convertToDTO()Lcom/infosys/FA4Group6/Product/dto/SubscriptionDTO;k
+aC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/SubscribedProduct.java; ;($"1*ò
+1k
+aC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/SubscribedProduct.java<' <(<ÜÙ
+k
+aC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/SubscribedProduct.java<+ <(:7
+%01com.infosys.FA4Group6.Product.dto.SubscriptionDTO"1com.infosys.FA4Group6.Product.dto.SubscriptionDTOî
+ë
+k
+aC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/SubscribedProduct.java<' <(<
+%1";com.infosys.FA4Group6.Product.dto.SubscriptionDTO#<init>()V*9
+7
+%01com.infosys.FA4Group6.Product.dto.SubscriptionDTOô
+ñ
+k
+aC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/SubscribedProduct.java< <(=A
+subscription1com.infosys.FA4Group6.Product.dto.SubscriptionDTO"__id*9
+7
+%01com.infosys.FA4Group6.Product.dto.SubscriptionDTO«¨
+k
+aC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/SubscribedProduct.java>  >(1
+%2java.lang.Integer"Vcom.infosys.FA4Group6.Product.entity.SubscribedProduct#getBuyerid()Ljava/lang/Integer;*:8
+6com.infosys.FA4Group6.Product.entity.SubscribedProduct2getBuyerid()ÑÎ
+k
+aC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/SubscribedProduct.java> >(2
+
+%3void"Rcom.infosys.FA4Group6.Product.dto.SubscriptionDTO#setBuyerid(Ljava/lang/Integer;)V*C
+A
+subscription1com.infosys.FA4Group6.Product.dto.SubscriptionDTO*
+
+%2java.lang.Integer2setBuyerid(Ljava/lang/Integer;)©¦
+k
+aC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/SubscribedProduct.java? ?(/
+%4java.lang.Integer"Ucom.infosys.FA4Group6.Product.entity.SubscribedProduct#getProdid()Ljava/lang/Integer;*:8
+6com.infosys.FA4Group6.Product.entity.SubscribedProduct2getProdid()ÏÌ
+k
+aC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/SubscribedProduct.java? ?(0
+
+%5void"Qcom.infosys.FA4Group6.Product.dto.SubscriptionDTO#setProdid(Ljava/lang/Integer;)V*C
+A
+subscription1com.infosys.FA4Group6.Product.dto.SubscriptionDTO*
+
+%4java.lang.Integer2setProdid(Ljava/lang/Integer;)­ª
+k
+aC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/SubscribedProduct.java@! @(3
+%6java.lang.Integer"Wcom.infosys.FA4Group6.Product.entity.SubscribedProduct#getQuantity()Ljava/lang/Integer;*:8
+6com.infosys.FA4Group6.Product.entity.SubscribedProduct2getQuantity()ÓÐ
+k
+aC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/SubscribedProduct.java@ @(4
+
+%7void"Scom.infosys.FA4Group6.Product.dto.SubscriptionDTO#setQuantity(Ljava/lang/Integer;)V*C
+A
+subscription1com.infosys.FA4Group6.Product.dto.SubscriptionDTO*
+
+%6java.lang.Integer2 setQuantity(Ljava/lang/Integer;)"²
+k
+aC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/entity/SubscribedProduct.javaB B(C
+A
+subscription1com.infosys.FA4Group6.Product.dto.SubscriptionDTOB:8
+6com.infosys.FA4Group6.Product.entity.SubscribedProduct

@@ -1,0 +1,13 @@
+com\infosys\FA4Group6\Product\service\ProductService.class
+com\infosys\FA4Group6\Product\ProductRepository\ProductRepository.class
+com\infosys\FA4Group6\Product\service\SubscriptionService.class
+com\infosys\FA4Group6\Product\model\Message.class
+com\infosys\FA4Group6\Product\entity\Product.class
+com\infosys\FA4Group6\Product\Application.class
+com\infosys\FA4Group6\Product\dto\SubscriptionDTO.class
+com\infosys\FA4Group6\Product\entity\SubscribedProduct.class
+com\infosys\FA4Group6\Product\ProductRepository\SubscriptionRepository.class
+com\infosys\FA4Group6\Product\controller\ProductController.class
+com\infosys\FA4Group6\Product\controller\SubscriptionController.class
+com\infosys\FA4Group6\Product\dto\ProductDTO.class
+com\infosys\FA4Group6\Product\model\ProductId.class

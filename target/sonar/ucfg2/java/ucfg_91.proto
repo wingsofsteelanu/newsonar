@@ -1,0 +1,71 @@
+
+–com.infosys.FA4Group6.Product.service.ProductService#updateStock(Ljava/lang/Integer;Ljava/lang/Integer;)Lcom/infosys/FA4Group6/Product/entity/Product;i
+_C:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/ProductService.javaB B("3*™
+
+2i
+_C:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/ProductService.javaE E(ÇÄ
+i
+_C:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/ProductService.javaE E("
+
+%3void"Kcom.infosys.FA4Group6.Product.entity.Product#setStock(Ljava/lang/Integer;)V*A
+?
+existingProduct,com.infosys.FA4Group6.Product.entity.Product*
+
+stockjava.lang.Integer2setStock(Ljava/lang/Integer;)Ž
+‹
+i
+_C:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/ProductService.javaF
+ F(G
+%4Acom.infosys.FA4Group6.Product.ProductRepository.ProductRepository"__id*O*M6
+4com.infosys.FA4Group6.Product.service.ProductService"
+productRepository©¦
+i
+_C:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/ProductService.javaF
+ F(12
+%5,com.infosys.FA4Group6.Product.entity.Product"]org.springframework.data.repository.CrudRepository#save(Ljava/lang/Object;)Ljava/lang/Object;*I
+G
+%4Acom.infosys.FA4Group6.Product.ProductRepository.ProductRepository*A
+?
+existingProduct,com.infosys.FA4Group6.Product.entity.Product2save(Ljava/lang/Object;)"¡
+i
+_C:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/ProductService.javaF F(24
+2
+%5,com.infosys.FA4Group6.Product.entity.Product*“
+
+3i
+_C:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/ProductService.javaC C(-Ž
+‹
+i
+_C:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/ProductService.javaC C(-G
+%0Acom.infosys.FA4Group6.Product.ProductRepository.ProductRepository"__id*O*M6
+4com.infosys.FA4Group6.Product.service.ProductService"
+productRepositoryõò
+i
+_C:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/ProductService.javaC C(>
+%1java.util.Optional"corg.springframework.data.repository.CrudRepository#findById(Ljava/lang/Object;)Ljava/util/Optional;*I
+G
+%0Acom.infosys.FA4Group6.Product.ProductRepository.ProductRepository*
+
+prodIdjava.lang.Integer2findById(Ljava/lang/Object;)£ 
+i
+_C:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/ProductService.javaC C(K2
+%2,com.infosys.FA4Group6.Product.entity.Product"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
+
+%1java.util.Optional*
+""2orElse(Ljava/lang/Object;)ë
+è
+i
+_C:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/ProductService.javaC C(L?
+existingProduct,com.infosys.FA4Group6.Product.entity.Product"__id*4
+2
+%2,com.infosys.FA4Group6.Product.entity.Product*
+2
+1*ã
+1i
+_C:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/ProductService.javaH	 H("s
+i
+_C:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/ProductService.javaH H(
+"":
+prodIdjava.lang.Integer:
+stockjava.lang.IntegerB86
+4com.infosys.FA4Group6.Product.service.ProductService

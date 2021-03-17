@@ -1,0 +1,33 @@
+
+žcom.infosys.FA4Group6.Product.Application#restTemplate(Lorg/springframework/boot/web/client/RestTemplateBuilder;)Lorg/springframework/web/client/RestTemplate;^
+TC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/Application.java ($"startingBlock*£
+startingBlock^
+TC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/Application.java$ (Aì
+é
+^
+TC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/Application.java (	
+%1"
+__annotate*/-
++org.springframework.context.annotation.Bean*D
+B
+builder7org.springframework.boot.web.client.RestTemplateBuilder½
+º
+^
+TC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/Application.java9 (@B
+builder7org.springframework.boot.web.client.RestTemplateBuilder"__annotation*
+
+%1*
+1*Ñ
+1^
+TC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/Application.java (ÓÐ
+^
+TC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/Application.java (1
+%0+org.springframework.web.client.RestTemplate"lorg.springframework.boot.web.client.RestTemplateBuilder#build()Lorg/springframework/web/client/RestTemplate;*D
+B
+builder7org.springframework.boot.web.client.RestTemplateBuilder2build()"•
+^
+TC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/Application.java (3
+1
+%0+org.springframework.web.client.RestTemplate:B
+builder7org.springframework.boot.web.client.RestTemplateBuilderB-+
+)com.infosys.FA4Group6.Product.Application

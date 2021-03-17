@@ -1,0 +1,31 @@
+
+öcom.infosys.FA4Group6.Product.service.SubscriptionService#getSubscriptionById(Ljava/lang/Integer;)Lcom/infosys/FA4Group6/Product/entity/SubscribedProduct;n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java (-"1*Å
+
+1n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java	 (¢
+ü
+n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java	 (L
+%0Fcom.infosys.FA4Group6.Product.ProductRepository.SubscriptionRepository"__id*Y*W;
+9com.infosys.FA4Group6.Product.service.SubscriptionService"
+subscriptionRepository˛˚
+n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java	 (/
+%1java.util.Optional"corg.springframework.data.repository.CrudRepository#findById(Ljava/lang/Object;)Ljava/util/Optional;*N
+L
+%0Fcom.infosys.FA4Group6.Product.ProductRepository.SubscriptionRepository*
+
+subidjava.lang.Integer2findById(Ljava/lang/Object;)≤Ø
+n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java	 (<<
+%26com.infosys.FA4Group6.Product.entity.SubscribedProduct"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
+
+%1java.util.Optional*
+""2orElse(Ljava/lang/Object;)"∞
+n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java (=>
+<
+%26com.infosys.FA4Group6.Product.entity.SubscribedProduct:
+subidjava.lang.IntegerB=;
+9com.infosys.FA4Group6.Product.service.SubscriptionService

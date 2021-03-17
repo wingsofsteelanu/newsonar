@@ -1,0 +1,24 @@
+
+scom.infosys.FA4Group6.Product.service.SubscriptionService#getSubscriptions(Ljava/lang/Integer;)Ljava/lang/Iterable;n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java$ (4"1* 
+1n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java	 (¢
+ü
+n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java	 (L
+%0Fcom.infosys.FA4Group6.Product.ProductRepository.SubscriptionRepository"__id*Y*W;
+9com.infosys.FA4Group6.Product.service.SubscriptionService"
+subscriptionRepository†ù
+n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java	 (6
+%1java.lang.Iterable"}com.infosys.FA4Group6.Product.ProductRepository.SubscriptionRepository#findByBuyerid(Ljava/lang/Integer;)Ljava/lang/Iterable;*N
+L
+%0Fcom.infosys.FA4Group6.Product.ProductRepository.SubscriptionRepository*
+
+buyeridjava.lang.Integer2"findByBuyerid(Ljava/lang/Integer;)"å
+n
+dC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/SubscriptionService.java (7
+
+%1java.lang.Iterable:
+buyeridjava.lang.IntegerB=;
+9com.infosys.FA4Group6.Product.service.SubscriptionService

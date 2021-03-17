@@ -1,0 +1,96 @@
+
+ocom.infosys.FA4Group6.Product.controller.ProductController#removeProduct(Ljava/lang/Integer;)Ljava/lang/Object;o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.javaj j("startingBlock*…
+startingBlocko
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.javaj j(]Ï
+Ì
+o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.javajB j(J
+%11"
+__annotate*$"
+ org.springframework.lang.NonNull* 
+
+	productIdjava.lang.Integer«
+¨
+o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.javajS j(\
+	productIdjava.lang.Integer"__annotation*
+
+%11*
+8*ž
+4o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.javaq q("§
+o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.javaq q(4
+2
+msg+com.infosys.FA4Group6.Product.model.Message*Ÿ
+5o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.javao o((ã
+à
+o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.javao o((2
+msg+com.infosys.FA4Group6.Product.model.Message"__id*3
+1
+%5+com.infosys.FA4Group6.Product.model.Message½º
+o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.javap p(2
+
+%7void"Kcom.infosys.FA4Group6.Product.model.Message#setMessage(Ljava/lang/String;)V*4
+2
+msg+com.infosys.FA4Group6.Product.model.Message*
+Successfully Deleted2setMessage(Ljava/lang/String;)*
+4*¹
+6o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.javao o('ÔÑ
+o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.javao o(%1
+%5+com.infosys.FA4Group6.Product.model.Message"+com.infosys.FA4Group6.Product.model.Messageæ
+ã
+o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.javao o('
+%6"5com.infosys.FA4Group6.Product.model.Message#<init>()V*3
+1
+%5+com.infosys.FA4Group6.Product.model.Message*
+5*ù
+7o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.javan n(š
+—
+o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.javan n(
+%2org.slf4j.Logger"__id*
+""ã
+à
+o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.javan n(K
+%3java.lang.String"__concat*)'
+%Removing Products based on productId * 
+
+	productIdjava.lang.Integerú÷
+o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.javan n(L
+
+%4void"*org.slf4j.Logger#info(Ljava/lang/String;)V*
+
+%2org.slf4j.Logger*
+
+%3java.lang.String2info(Ljava/lang/String;)*
+6*ç
+8o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.javal l(Š
+‡
+o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.javal l(:
+%04com.infosys.FA4Group6.Product.service.ProductService"__id*R*P<
+:com.infosys.FA4Group6.Product.controller.ProductController"
+productServiceÞÛ
+o
+eC:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/controller/ProductController.javal l(3
+
+%1void"Xcom.infosys.FA4Group6.Product.service.ProductService#deleteProduct(Ljava/lang/Integer;)V*<
+:
+%04com.infosys.FA4Group6.Product.service.ProductService* 
+
+	productIdjava.lang.Integer2"deleteProduct(Ljava/lang/Integer;)*
+7:
+	productIdjava.lang.IntegerB><
+:com.infosys.FA4Group6.Product.controller.ProductController

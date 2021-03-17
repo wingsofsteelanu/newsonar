@@ -1,0 +1,21 @@
+
+Vcom.infosys.FA4Group6.Product.service.ProductService#getProducts()Ljava/lang/Iterable;i
+_C:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/ProductService.java (%"1*¼
+1i
+_C:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/ProductService.java	 (Ž
+‹
+i
+_C:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/ProductService.java	 (G
+%0Acom.infosys.FA4Group6.Product.ProductRepository.ProductRepository"__id*O*M6
+4com.infosys.FA4Group6.Product.service.ProductService"
+productRepository°­
+i
+_C:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/ProductService.java	 ($
+%1java.lang.Iterable"Porg.springframework.data.repository.CrudRepository#findAll()Ljava/lang/Iterable;*I
+G
+%0Acom.infosys.FA4Group6.Product.ProductRepository.ProductRepository2	findAll()"‡
+i
+_C:/Users/tukur/newsonar/src/main/java/com/infosys/FA4Group6/Product/service/ProductService.java (%
+
+%1java.lang.IterableB86
+4com.infosys.FA4Group6.Product.service.ProductService
